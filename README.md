@@ -14,7 +14,7 @@ Constantly curious and committed to learning, I am always exploring new technolo
 
 - [📌 **Madissues**](https://github.com/GangOfWarpigs) - A platform for students to report and track issues, automatically assigned to representatives through tools like Jira, Trello, and Asana for efficient resolution.
 
-- [🔍 **LookUp**](https://github.com/LookUp-Crew) - A proximity-based social app enabling users to discover and connect with nearby people via BLE for unique interactions.
+- [🔍 **LookUp**](https://github.com/LookUpApp) - A proximity-based social app enabling users to discover and connect with nearby people via BLE for unique interactions.
 
 - [📱 **UniMatch**](https://github.com/UniMatchApp) - A dating app designed for university students, fostering meaningful connections within the academic community.
 
