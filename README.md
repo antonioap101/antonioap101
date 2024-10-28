@@ -10,7 +10,7 @@ Constantly curious and committed to learning, I am always exploring new technolo
 
 ### 🚀 Main Projects
 
-- [🌐 **Acousea**](https://github.com/antonioap101/acousea) - My final year university project focused on remote monitoring of marine populations through acoustic data analysis. This project combines embedded systems, web development and data analysis to track marine species and support oceanographic research.
+- [🌐 **Acousea**](https://github.com/Acousea) - My final year university project focused on remote monitoring of marine populations through acoustic data analysis. This project combines embedded systems, web development and data analysis to track marine species and support oceanographic research.
 
 - [📌 **Madissues**](https://github.com/GangOfWarpigs) - A platform for students to report and track issues, automatically assigned to representatives through tools like Jira, Trello, and Asana for efficient resolution.
 
